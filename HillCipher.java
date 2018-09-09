@@ -12,12 +12,11 @@ public class HillCipher {
     private static final String ALPHABET = "abcdefghijklmnopqrstuvwxyz";
     
     public static void main(String[] args) {
-    
         
         int[] keyMatrix = {6, 14, 3, 0};
         encrypt("love does not boast", keyMatrix);
-        
     }
+    
     
     public static void encrypt(String plainText, int[] keyMatrix) {
         
