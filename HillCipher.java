@@ -3,7 +3,7 @@ import java.util.*;
 /*
  * Unique implementation of the Hill cipher.
  * - 
- * @author: Jasper Cherry
+ * @author: jedwardmc
  * @date: 9.09.2018
  */
 
